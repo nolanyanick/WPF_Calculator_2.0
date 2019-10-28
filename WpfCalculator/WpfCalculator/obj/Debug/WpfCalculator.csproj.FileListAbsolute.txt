@@ -1,0 +1,16 @@
+E:\CIT 255 - OOP\WPF Calculator\WpfCalculator\WpfCalculator\obj\Debug\WpfCalculator.csprojAssemblyReference.cache
+E:\CIT 255 - OOP\WPF Calculator\WpfCalculator\WpfCalculator\obj\Debug\Views\CalculatorView.g.cs
+E:\CIT 255 - OOP\WPF Calculator\WpfCalculator\WpfCalculator\obj\Debug\App.g.cs
+E:\CIT 255 - OOP\WPF Calculator\WpfCalculator\WpfCalculator\obj\Debug\WpfCalculator_MarkupCompile.cache
+E:\CIT 255 - OOP\WPF Calculator\WpfCalculator\WpfCalculator\obj\Debug\WpfCalculator_MarkupCompile.lref
+E:\CIT 255 - OOP\WPF Calculator\WpfCalculator\WpfCalculator\bin\Debug\WpfCalculator.exe.config
+E:\CIT 255 - OOP\WPF Calculator\WpfCalculator\WpfCalculator\bin\Debug\WpfCalculator.exe
+E:\CIT 255 - OOP\WPF Calculator\WpfCalculator\WpfCalculator\bin\Debug\WpfCalculator.pdb
+E:\CIT 255 - OOP\WPF Calculator\WpfCalculator\WpfCalculator\obj\Debug\Views\CalculatorView.baml
+E:\CIT 255 - OOP\WPF Calculator\WpfCalculator\WpfCalculator\obj\Debug\WpfCalculator.g.resources
+E:\CIT 255 - OOP\WPF Calculator\WpfCalculator\WpfCalculator\obj\Debug\WpfCalculator.Properties.Resources.resources
+E:\CIT 255 - OOP\WPF Calculator\WpfCalculator\WpfCalculator\obj\Debug\WpfCalculator.csproj.GenerateResource.cache
+E:\CIT 255 - OOP\WPF Calculator\WpfCalculator\WpfCalculator\obj\Debug\WpfCalculator.csproj.CoreCompileInputs.cache
+E:\CIT 255 - OOP\WPF Calculator\WpfCalculator\WpfCalculator\obj\Debug\WpfCalculator.exe
+E:\CIT 255 - OOP\WPF Calculator\WpfCalculator\WpfCalculator\obj\Debug\WpfCalculator.pdb
+E:\CIT 255 - OOP\WPF Calculator\WpfCalculator\WpfCalculator\obj\Debug\GeneratedInternalTypeHelper.g.cs
